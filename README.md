@@ -9,4 +9,8 @@ Project for the Introduction to Interactive Programming in Python course.
 
 ### [Solitaire Mancala](http://www.codeskulptor.org/#user40_TPOdb3auIi_6.py)
 
-Week 1 Practice Mini-Project for the Principles of Computing (Part 1) course
+Week 1 Practice Mini-Project for the Principles of Computing (Part 1) course.
+
+### [2048](http://www.codeskulptor.org/#user40_ZYghN1kM3c_1.py)
+
+Week 1 and 2 Mini-Project for the Principles of Computing (Part 1) course.
