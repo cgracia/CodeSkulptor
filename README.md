@@ -11,6 +11,7 @@ Project for the Introduction to Interactive Programming in Python course.
 
 Week 1 Practice Mini-Project for the Principles of Computing (Part 1) course.
 
-### [2048](http://www.codeskulptor.org/#user40_UnogMZshzH_0.py)
+### [2048](http://www.codeskulptor.org/#user40_UnogMZshzH_6.py)
 
 Week 1 and 2 Mini-Project for the Principles of Computing (Part 1) course.
+[Test code](http://www.codeskulptor.org/#user40_o7Yktx7pKA_7.py)
